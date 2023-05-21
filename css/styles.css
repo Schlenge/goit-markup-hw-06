@@ -287,7 +287,8 @@ div .tel-group:hover {
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
-  margin-top: 2px;
+  padding-top: 2px;
+  margin: 0;
 }
 
 .form-fields {
@@ -297,6 +298,7 @@ div .tel-group:hover {
   padding: 12px 40px;
   display: flex;
   flex-direction: column;
+  margin-bottom: 20px;
 }
 
 .form-fields label {
